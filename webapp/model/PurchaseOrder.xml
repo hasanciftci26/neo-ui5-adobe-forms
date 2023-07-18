@@ -1,0 +1,35 @@
+<PurchaseOrder>
+	<ContentMain>
+		<PONumber>123456789</PONumber>
+		<Requester>Julian Mayer</Requester>
+		<OrderDate>20230712T000000</OrderDate>
+		<TotalPrice>1600.00</TotalPrice>
+		<PurchaseItems>
+			<HeaderRow/>
+			<ItemsRow>
+				<ItemNo>1</ItemNo>
+				<MaterialNo>MT-1</MaterialNo>
+				<Quantity>2</Quantity>
+				<Unit>PC</Unit>
+				<Price>10.50</Price>
+				<Currency>EUR</Currency>
+			</ItemsRow>
+			<ItemsRow>
+				<ItemNo>2</ItemNo>
+				<MaterialNo>MT-2</MaterialNo>
+				<Quantity>10</Quantity>
+				<Unit>PC</Unit>
+				<Price>1586.50</Price>
+				<Currency>EUR</Currency>
+			</ItemsRow>
+			<ItemsRow>
+				<ItemNo>3</ItemNo>
+				<MaterialNo>MT-3</MaterialNo>
+				<Quantity>15</Quantity>
+				<Unit>PC</Unit>
+				<Price>3.00</Price>
+				<Currency>EUR</Currency>
+			</ItemsRow>			
+		</PurchaseItems>
+	</ContentMain>
+</PurchaseOrder>
